@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(80, 249, 255);
+}
+ h1 {
+  border: dotted black;
+  text-align: center;
+  font-family: Lucida Handwriting, Brush Script MT, cursive;
+  padding: 12px;
+  margin-left: 250px;
+  margin-right: 250px;
+ }
+
+ p {
+  margin: 12px 24px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(241, 241, 241, 0.863);
+ }
+
+ a {
+  background-color: rgba(241, 241, 241, 0.863);
+ }
